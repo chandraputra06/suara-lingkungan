@@ -1,0 +1,9 @@
+streamlit
+tensorflow-cpu
+tensorflow-hub
+librosa
+soundfile
+numpy
+pandas
+matplotlib
+scikit-learn
